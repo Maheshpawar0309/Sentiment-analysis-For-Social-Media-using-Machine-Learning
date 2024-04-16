@@ -5,7 +5,7 @@
 Google Colab link of project :-
     https://colab.research.google.com/drive/1QX4GTIqgjht33YRf2rPZ3lcla_Rafi_2
 
-### ****Sentiment Analysis for Social Media****
+##### ***Sentiment Analysis for Social Media***
 ### ***Twitter-sentiment-analysis-using-Python-Machine-Learning***
 
 * The project aims to develop a Python tool for analyzing sentiments towards Pfizer vaccines on Twitter.
