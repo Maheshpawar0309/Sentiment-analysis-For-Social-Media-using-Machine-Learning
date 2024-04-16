@@ -19,12 +19,10 @@ Google Colab link of project :-
 """
 
 
-#Data Preprocessing:
-
+# Data Preprocessing:
 
 
 *   Cleaning the text data by converting it to lowercase, removing URLs, mentions, hashtags, and non-alphanumeric characters.
-
 *   Tokenizing the text into individual words and removing stopwords to prepare it for analysis.
 
 
@@ -44,10 +42,9 @@ Google Colab link of project :-
 # Model Training :
 
 *  Training machine learning models
-    #  Logistic Regression model
-    #  Support Vector Classifier (LinearSVC) model
-    #  Multinomial Naive Bayes model
-   
+  1. Logistic Regression model
+  2. Support Vector Classifier (LinearSVC) model
+  3.   Multinomial Naive Bayes model
 *  Evaluating the performance of each trained model on the testing dataset using accuracy scores, confusion matrices, and classification reports.bold text
 
 
