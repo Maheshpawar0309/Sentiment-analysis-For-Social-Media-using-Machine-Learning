@@ -53,3 +53,24 @@ Google Colab link of project :-
 *   Assessing the performance of each trained model by comparing its predictions to the actual sentiment labels in the testing dataset.
 *  Calculating accuracy scores to measure the proportion of correctly classified samples by each model.
 
+
+
+
+![1](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/9be98fbb-1e5f-4cca-a344-97b9a24314a3)
+
+
+![2](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/d6a460d7-33ca-43ab-8690-42ab59d2b693)
+
+
+![3](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/6ceeac1b-365f-4e68-bc8e-17f277efd901)
+
+
+![4](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/5199a14d-c6a0-4c0d-aaa3-d017deb8c11a)
+
+
+![5](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/6b59ca6a-dcec-4a05-af0c-49187d18e8fb)
+
+
+![6](https://github.com/Maheshpawar0309/Sentiment-analysis-For-Social-Media-using-Machine-Learning/assets/106018641/6ad9b1a2-3139-400c-a12c-cc53c7cf6f4f)
+
+
