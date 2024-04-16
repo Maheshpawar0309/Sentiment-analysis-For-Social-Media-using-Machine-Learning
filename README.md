@@ -18,7 +18,6 @@ Google Colab link of project :-
 *   Ultimately, the project seeks to gain insights into the prevailing sentiments among Twitter users regarding Pfizer vaccines.
 """
 
-
 # Data Preprocessing:
 
 
