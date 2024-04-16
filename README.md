@@ -16,9 +16,9 @@ Google Colab link of project :-
 
 *   Various machine learning algorithms will be tested to determine the most effective for sentiment analysis.
 *   Ultimately, the project seeks to gain insights into the prevailing sentiments among Twitter users regarding Pfizer vaccines.
-"""
 
-# Data Preprocessing:
+
+      # Data Preprocessing:
 
 
 *   Cleaning the text data by converting it to lowercase, removing URLs, mentions, hashtags, and non-alphanumeric characters.
